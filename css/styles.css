@@ -7,6 +7,10 @@ h1 {
   color: purple;
 }
 
+p {
+  text-align: center;
+}
+
 a {
   color: rebeccapurple;
   text-align: center;
